@@ -4,4 +4,6 @@ This repository contains a python program for decoding and griding ascii via goo
 # How to run
 
 It's very simple and straightforward, when the program is run it'll ask for a url
-Ex: 
+
+
+- Ex: "Enter the URL containing the secret message table: "
